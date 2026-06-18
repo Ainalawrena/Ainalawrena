@@ -4,7 +4,7 @@ Bonjour, je suis Aina Lawrena, étudiante en **L3 Informatique et technologie**.
 
 Passionnée par le **développement web** et les **systèmes d'information**, j'aime concevoir des solutions numériques qui allient fonctionnalité et expérience utilisateur.
 
-Actuellement en troisième année de licence, je développe mes compétences à travers plusieurs projets académiques et personnels. je m’intéresse particulièrement au développement full stack et à la conception de solutions numériques.
+Actuellement en troisième année de licence, je développe mes compétences à travers des projets académiques et personnels. je m’intéresse particulièrement au développement full stack et à la conception de solutions numériques.
 
 📍 Basée à **Antananarivo, Madagascar** 
 
