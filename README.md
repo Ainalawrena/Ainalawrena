@@ -1,15 +1,11 @@
 ## À propos de moi
 
-Salut, je suis **Aina Lawrena ANDRIANARIMINO **, étudiante en **L3 Informatique et technologie**.
+Bonjour, je suis Aina Lawrena ANDRIANARIMINO, étudiante en **L3 Informatique et technologie**.
 
 Passionnée par le **développement web** et les **systèmes d'information**, j'aime concevoir des solutions numériques qui allient fonctionnalité et expérience utilisateur.
 
-Actuellement en troisième année de licence, je développe mes compétences à travers plusieurs projets académiques et personnels. J’ai une forte appétence pour le développement full stack et la conception de systèmes d’information.
-
-🌱 **Actuellement en train d’apprendre** : React, Node.js, bases de données et architectures des SI.
-
+Actuellement en troisième année de licence, je développe mes compétences à travers plusieurs projets académiques et personnels. je m’intéresse particulièrement au développement full stack et à la conception de solutions numériques.
 📍 Basée à **Antananarivo, Madagascar** 
-
 
 ---
 
@@ -42,12 +38,6 @@ Git • Linux • Zabbix • DHCP • NFS
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyaina.lawrena@gmail.com@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahiry-ny-aina-lawrena-andrianarimino-327506371/)
-
----
-
-## 📈 Activité récente
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TONUSERNAME&theme=radical)
 
 ---
 
