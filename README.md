@@ -1,55 +1,47 @@
-# Salut, je suis Aina Lawrena ANDRIANARIMINO 👋
-
-![Bannière ou photo](lien-de-ton-image)
-
 ## À propos de moi
 
-- 👨‍💻 **Développeur [Ton domaine]** (ex: Full Stack / Frontend / Backend / Data Analyst...)
-- 🌱 Actuellement en train d’apprendre : **React, Node.js, Python...**
-- 📍 Basé à Anatananarivo,Madagascar
-- 🎯 À la recherche d’opportunités en **Stage / CDI / Freelance**
+Salut, je suis **Aina Lawrena ANDRIANARIMINO **, étudiante en **L3 Informatique et technologie**.
+
+Passionnée par le **développement web** et les **systèmes d'information**, j'aime concevoir des solutions numériques qui allient fonctionnalité et expérience utilisateur.
+
+Actuellement en troisième année de licence, je développe mes compétences à travers plusieurs projets académiques et personnels. J’ai une forte appétence pour le développement full stack et la conception de systèmes d’information.
+
+🌱 **Actuellement en train d’apprendre** : React, Node.js, bases de données et architectures des SI.
+
+📍 Basée à **Antananarivo, Madagascar** 
+
 
 ---
 
-## 🛠 Technologies & Outils
+## 🛠 Skills & Technologies
 
-### Langages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Technical Skills
 
-### Frameworks & Bibliothèques
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Languages**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+**C / C++**
 
-*(Ajoute tes technologies principales)*
+**Frameworks**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
----
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-## 📊 Mes Statistiques GitHub
-
-![Tes stats](https://github-readme-stats.vercel.app/api?username=TONUSERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 Projets phares
-
-### 1. [Nom du Projet 1](lien-du-repo)
-**Description courte...**  
-`Technos : React, Node.js, MongoDB`
-
-### 2. [Nom du Projet 2](lien-du-repo)
-**Description courte...**
-
-*(Épingle d’abord tes meilleurs repos sur ton profil, puis mets les liens ici)*
-
----
+**Tools & Technologies**  
+Git • Linux • Zabbix • DHCP • NFS
 
 ## 📫 Me contacter
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-nom)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ton-site.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyaina.lawrena@gmail.com@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahiry-ny-aina-lawrena-andrianarimino-327506371/)
 
 ---
 
@@ -59,4 +51,4 @@
 
 ---
 
-**Merci d’avoir visité mon profil !** ✨
+**Merci d’avoir visité mon profil !** 
