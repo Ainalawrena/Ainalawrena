@@ -1,6 +1,6 @@
 ## À propos de moi
 
-Bonjour, je suis Aina Lawrena, étudiante en **L3 Informatique et technologie**.
+Bonjour, je suis Aina Lawrena, étudiante en ** Informatique et technologie**.
 
 Passionnée par le **développement web** et les **systèmes d'information**, j'aime concevoir des solutions numériques qui allient fonctionnalité et expérience utilisateur.
 
